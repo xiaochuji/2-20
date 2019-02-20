@@ -1,0 +1,7 @@
+function require(){
+
+}
+
+function config(){
+    
+}
